@@ -1,7 +1,7 @@
 name: darrenkilford
 favicon: null
-layout_spectrum: 0.3865239580627531
-typography_spectrum: 0.963930425234139
+layout_spectrum: 0.43397
+typography_spectrum: 0.61903
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.9681783847045153
-  lightness: 0.6422015994321555
-  saturation: 0.12942525441758335
-  rhythmicContrast: 0.16298347478732467
+  lightness: 0.375
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
