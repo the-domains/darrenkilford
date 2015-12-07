@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[darrenkilford]]></title>
+        <description><![CDATA[darrenkilford]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Dec 2015 09:14:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Web Development Reading List #115: Good News For HTTP/2, PHP7, And Better Flexbox Grids - Smashing Magazine]]></title>
+            <description><![CDATA[<article><h1>Web Development Reading List #115: Good News For HTTP/2, PHP7, And Better Flexbox Grids - Smashing Magazine</h1><p>What's going on in the industry? What new techniques have emerged recently? What insights, tools, tips and tricks is the web design community talking about? Anselm Hannemann is collecting everything that popped up over the last week in his web development reading list so that you don't miss out on anything.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d76d060f9d112e4b4a0aec15ad0650f39f28aed8.jpg"></article>]]></description>
+            <link>http://www.smashingmagazine.com/2015/12/web-development-reading-list-115/</link>
+            <guid isPermaLink="false">fe82d008-590a-424f-b9c7-0c6cfee609f8</guid>
+            <pubDate>Mon, 07 Dec 2015 09:14:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
